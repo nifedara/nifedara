@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @nifedara
+- 👋 Hi, I’m Nifemi
+
+- #### Currently learning: *Kotlin*, *Android* on the go.
 
 <!---
 nifedara/nifedara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
